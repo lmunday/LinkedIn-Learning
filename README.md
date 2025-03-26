@@ -1,11 +1,9 @@
-# Practical GitHub Actions
-This is the repository for the LinkedIn Learning course Practical GitHub Actions. The full course is available from [LinkedIn Learning][lil-course-url].
+# Practical GitHub Copilot
+This is the repository for the LinkedIn Learning course Practical GitHub Copilot. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![Practical GitHub Actions][lil-thumbnail-url] 
+![Practical GitHub Copilot][lil-thumbnail-url] 
 
-For developer professionals, solving problems is a vital part of the job—particularly solving problems that keep coming up. GitHub Actions will let you automate your repetitive problems away, and in this course—created in partnership with GitHub—Ray Villalobos shows you how to set them up to tackle real-world projects. Ray starts with the basics of Actions, going over what you can do with them and how they work. He then shows you the steps necessary to publish a marketplace action, including creating a workflow, a generator repo Dockerfile, entry point, and action.yml file. Finally, Ray takes you through testing and releasing your GitHub Action.
-
-If you’re a developer looking to advance your career, or a recent computer science grad searching for a developer role, check out this course to learn practical skills to add your portfolio and enhance your standing in a competitive job market.
+Copilot–a paid service from GitHub–is revolutionizing the way code is written. According to reports from developers who use it, a vast majority feel more productive and can perform repetitive tasks almost twice as fast. If you're interested in learning how to solve problems with Copilot and become a more efficient developer, join instructor Ray Villalobos in this hands-on course as he shows you not just how to use Copilot to find the best solutions to concrete code problems, but how to make it work best in specific contexts. From setup to navigating the tools to refining the results, Ray demonstrates the practical applications of Copilot’s powerful features.
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -26,7 +24,6 @@ To resolve this issue:
 	Commit changes using this command: git commit -m "some message"
 
 
-
 ### Instructor
 
 Ray Villalobos 
@@ -37,6 +34,5 @@ Author, Multimedia Developer
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos).
 
-[lil-course-url]: https://www.linkedin.com/learning/practical-github-actions
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHTXEX1TA50Kw/learning-public-crop_675_1200/0/1685056279542?e=2147483647&v=beta&t=jzWirzknPA523bfHaOrsJsZ0V5GAVPej6kJ06BeMM5c
-
+[lil-course-url]: https://www.linkedin.com/learning/practical-github-copilot?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEVYkOcM5jKsQ/learning-public-crop_288_512/0/1686860280439?e=2147483647&v=beta&t=OQFBTMq5-PXArFGiBAIus3OK_EPIP1pKho5jLCXHJiI
